@@ -171,7 +171,7 @@ test.describe('Login Page Tests', () => {
 
 
     // Wait for redirect after login
-    await expect(page).toHaveURL('http://localhost:5173//');
+    await expect(page).toHaveURL('http://localhost:5173/');
     console.log('✅ Login successful!');
   });
 
