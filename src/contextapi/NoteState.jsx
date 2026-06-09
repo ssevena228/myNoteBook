@@ -40,6 +40,7 @@ function NoteState({ children }) {
       console.log(error);
     }
   };
+  
 
   const updateNote = async (note, noteId, setOpen) => {
     try {

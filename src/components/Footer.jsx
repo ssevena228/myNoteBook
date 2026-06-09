@@ -75,7 +75,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="py-6 text-sm text-center dark:text-gray-600">© 2000 mynotebook. All rights reserved.</div>
+            <div className="py-6 text-sm text-center dark:text-gray-600">© 2026 mynotebook. All rights reserved.</div>
         </footer>
     )
 }
